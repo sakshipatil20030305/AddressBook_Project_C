@@ -70,5 +70,3 @@ Alice Smith, 0987654321, alice@example.com
 ## Author
 Sakshi Patil
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
